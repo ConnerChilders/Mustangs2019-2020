@@ -4,3 +4,5 @@
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
 mut.bat
+commit.bat
+status.bat
