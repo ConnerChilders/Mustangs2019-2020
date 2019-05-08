@@ -24,6 +24,7 @@ void opcontrol() {
 		int left = master.get_analog(ANALOG_LEFT_Y);
 		int right = master.get_analog(ANALOG_RIGHT_Y);
 
+		
 		left_mtr = left;
 		right_mtr = right;
 		pros::delay(20);
