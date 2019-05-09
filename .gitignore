@@ -2,4 +2,16 @@
 .vs/MustangsV5/v16/.suo
 .vs/ProjectSettings.json
 .vs/slnx.sqlite
+<<<<<<< HEAD
 .vs/VSWorkspaceState.json
+=======
+.vs/VSWorkspaceState.json
+mut.bat
+commit.bat
+status.bat
+push.bat
+discard.bat
+*.xcworkspace
+.gitignore
+*.xcodeproj
+>>>>>>> 2074654d75d3790f99570ee40895acb93e655b78
